@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CirclePercentView">
+        <attr name="circleStrokeWidth" format="float"/>
+        <attr name="circleStartColor" format="reference"/>
+        <attr name="circleEndColor" format="reference"/>
+    </declare-styleable>
+</resources>
